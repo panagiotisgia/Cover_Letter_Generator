@@ -1,5 +1,5 @@
 import streamlit as st
-import openai
+#import openai
 from markdown_texts import *
 from llm_cover_letter import *
 
